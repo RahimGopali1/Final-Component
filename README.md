@@ -2,7 +2,7 @@
 
 # Validation
 <p> Validation for registration </p>
-![Reg_val](https://user-images.githubusercontent.com/79492620/113447282-3f2dee00-9419-11eb-9a6b-f13340f42df7.gif)
+<img src="Gif/Reg_val.gif>
 
 <p> Validation for Login </p>
 ![Login_val](https://user-images.githubusercontent.com/79492620/113446715-23761800-9418-11eb-8a27-6683e6d70d14.gif)
